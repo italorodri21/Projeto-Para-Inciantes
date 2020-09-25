@@ -21,6 +21,7 @@ public class Datas {
     
         // -> Definindo padrões de datas
         
+        System.out.println("Seja Bem-vindo");
         SimpleDateFormat dateFormat1 = new SimpleDateFormat("dd/MM/yyyy");
         SimpleDateFormat dateFormat2 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         SimpleDateFormat dateTimeZone = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
